@@ -58,3 +58,15 @@ Let's connect and collaborate on professional projects:
   <i>"Securing the future, protecting the digital frontier."</i><br>
   <b>© 2026 Minhaz Hussain Rafi</b>
 </p>
+
+### 🐍 My Contributions Animation
+<p align="center">
+  <img src="https://github-user-contribution-graph-snake.vercel.app/api?github=minhaz-hussain-rafi&snake=orange&out=github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=minhaz-hussain-rafi&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
+</p>
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=minhaz-hussain-rafi&theme=tokyonight&margin-w=15&column=4" alt="Trophies" />
+</p>
