@@ -1,72 +1,68 @@
-
-# Minhaz Hussain Rafi | Cybersecurity Specialist & Ethical Hacker 🛡️
+# <p align="center">🛡️ Minhaz Hussain Rafi</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Cybersecurity+Specialist;Certified+Ethical+Hacker;Python+%26+Bash+Developer;Digital+Marketing+Strategist" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Cybersecurity+Specialist;Certified+Ethical+Hacker;Python+%26+Bash+Developer;Digital+Growth+Strategist" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=minhaz-hussain-rafi&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
 </p>
 
 ---
 
 ### 👤 About Me
-I am **Minhaz Hussain Rafi**, a professional **Cybersecurity Specialist** and **Certified Ethical Hacker (AEU)** with over **4 years of hands-on experience**. My expertise lies in vulnerability assessment, penetration testing, and building secure digital infrastructures.
+I am a passionate **Cybersecurity Specialist** and **Certified Ethical Hacker (AEU)** with over **4 years of experience** in Information Security. I combine technical hacking expertise with **Digital Marketing** strategies to build secure and scalable digital presences.
 
-- 🛡️ **Information Security:** 4+ years in Ethical Hacking & Penetration Testing.
-- 🎓 **Education:** Certified Ethical Hacker from **European Open University (AEU)**.
-- 💻 **Software Development:** Proficient in **Python, C, and Bash** for security automation.
-- 📈 **Digital Marketing:** Helping businesses scale with secure and strategic digital growth.
-- 🌐 **Content Creator:** Sharing technical insights on my [Personal Tech Blog](https://dev-minhazhussainfirstsite.pantheonsite.io/blog/).
+- 🛡️ **Specialization:** Penetration Testing, Vulnerability Assessment, and InfoSec.
+- 🎓 **Credentials:** Certified from **European Open University (AEU)**.
+- 🧠 **Learning Method:** I use **Memory Palaces** to master complex technical concepts.
+- 🌐 **My Blog:** [Visit My Cybersecurity Blog](https://dev-minhazhussainfirstsite.pantheonsite.io/blog/)
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://github-user-contribution-graph-snake.vercel.app/api?github=minhaz-hussain-rafi&snake=orange&out=github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
 ### 🛠️ Technical Arsenal
-| Category | Skills & Tools |
+
+| **Domain** | **Tools & Technologies** |
 | :--- | :--- |
-| **Cybersecurity** | Penetration Testing, Network Security, InfoSec, SQL Injection |
-| **Programming** | Python, C, Bash Scripting, SQL |
-| **DevOps & OS** | Linux (Kali, Ubuntu), Docker, WSL, Virtualization |
-| **Marketing** | Digital Strategy, SEO, Tech-driven Branding |
+| **Security** | <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /> <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" /> |
+| **DevOps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/WSL2-0078D4?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> |
 
 ---
-### 📊 Professional Metrics
+
+### 🏆 Achievements & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhaz-hussain-rafi&show_icons=true&theme=tokyonight&count_private=true" alt="Minhaz's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-hussain-rafi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=minhaz-hussain-rafi&theme=tokyonight&no-bg=true&no-frame=true&column=4" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhaz-hussain-rafi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz-hussain-rafi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌐 Digital Presence
-Let's connect and collaborate on professional projects:
-
-<p align="left">
+### 🌐 Let's Connect
+<p align="center">
   <a href="https://linkedin.com/in/minhaz-hussain-rafi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/BdTeam99621" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/minaz.hussain.2024" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://dev-minhazhussainfirstsite.pantheonsite.io/blog/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF4500?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+  <a href="https://x.com/BdTeam99621" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
 
----
 <p align="center">
-  <i>"Securing the future, protecting the digital frontier."</i><br>
+  <br>
+  <i>"Securing the digital frontier, one byte at a time."</i><br>
   <b>© 2026 Minhaz Hussain Rafi</b>
-</p>
-
-### 🐍 My Contributions Animation
-<p align="center">
-  <img src="https://github-user-contribution-graph-snake.vercel.app/api?github=minhaz-hussain-rafi&snake=orange&out=github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=minhaz-hussain-rafi&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter" />
-</p>
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhaz-hussain-rafi&theme=tokyonight&margin-w=15&column=4" alt="Trophies" />
 </p>
