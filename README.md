@@ -7,7 +7,7 @@
 ---
 
 ### 👤 About Me
-I am **Minhaz Hussain Rafi**, a professional **Cybersecurity Specialist** and **Certified Ethical Hacker (AEU)** with over **4 years of hands-on experience** in the industry. My expertise lies in vulnerability assessment, penetration testing, and building secure digital infrastructures. I am passionate about bridging the gap between security and technology-driven growth.
+I am **Minhaz Hussain Rafi**, a professional **Cybersecurity Specialist** and **Certified Ethical Hacker (AEU)** with over **4 years of hands-on experience**. My expertise lies in vulnerability assessment, penetration testing, and building secure digital infrastructures.
 
 - 🛡️ **Information Security:** 4+ years in Ethical Hacking & Penetration Testing.
 - 🎓 **Education:** Certified Ethical Hacker from **European Open University (AEU)**.
@@ -29,8 +29,8 @@ I am **Minhaz Hussain Rafi**, a professional **Cybersecurity Specialist** and **
 
 ### 📊 Professional Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhaz-hussain-rafi&show_icons=true&theme=tokyonight&count_private=true" alt="Minhaz's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-hussain-rafi&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minaz777-ui&show_icons=true&theme=tokyonight&count_private=true" alt="Minhaz's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minaz777-ui&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
