@@ -65,24 +65,3 @@ I am a passionate **Cybersecurity Specialist** and **Certified Ethical Hacker (A
   <br>
   <b>© 2026 Minhaz Hussain Rafi | Securing the Future</b>
 </p>
-
-# <p align="center"> [ ACCESS GRANTED ] </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ROOT@MINHAZ-HUSSAIN-RAFI:~$;PENETRATING_THE_MATRIX...;CYBER_SECURITY_SPECIALIST;ETHICAL_HACKER_BY_PASSION" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00FF41?style=flat-square&logo=ghostery&logoColor=00FF41" />
-  <img src="https://komarev.com/ghpvc/?username=minhaz-hussain-rafi&color=00FF41&style=flat-square&label=INTRUSIONS" alt="Visitor Counter" />
-</p>
-
----
-
-### 📂 SYSTEM_INFO.LOG
-```bash
-> NAME: Minhaz Hussain Rafi
-> STATUS: Professional Cybersecurity Specialist
-> EXP: 4+ Years in Cyber Warfare
-> CERT: CEH (European Open University)
-> SKILLS: Vulnerability Research, Automation, Pentesting
-
