@@ -27,7 +27,6 @@ I am **Minhaz Hussain Rafi**, a professional **Cybersecurity Specialist** and **
 | **Marketing** | Digital Strategy, SEO, Tech-driven Branding |
 
 ---
-
 ### 📊 Professional Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minhaz-hussain-rafi&show_icons=true&theme=tokyonight&count_private=true" alt="Minhaz's Stats" />
