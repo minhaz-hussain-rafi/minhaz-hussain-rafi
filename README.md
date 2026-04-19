@@ -1,3 +1,4 @@
+
 # Minhaz Hussain Rafi | Cybersecurity Specialist & Ethical Hacker 🛡️
 
 <p align="center">
@@ -29,8 +30,8 @@ I am **Minhaz Hussain Rafi**, a professional **Cybersecurity Specialist** and **
 
 ### 📊 Professional Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minaz777-ui&show_icons=true&theme=tokyonight&count_private=true" alt="Minhaz's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minaz777-ui&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhaz-hussain-rafi&show_icons=true&theme=tokyonight&count_private=true" alt="Minhaz's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz-hussain-rafi&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
